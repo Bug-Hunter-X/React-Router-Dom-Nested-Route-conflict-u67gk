@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using nested routes in React Router Dom. The problem arises when a parent route's path also matches a child route's path, leading to unexpected rendering. The `bug.js` file contains the buggy code, while `bugSolution.js` provides the corrected version.
